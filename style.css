@@ -1,0 +1,99 @@
+/*FOR SLIDER SECTION*/
+.carousel-item {
+  height: 450px;
+}
+.carousel-img-1 {
+  background: url('assets/img/image1.jpeg');
+  background-size: cover;
+}
+.carousel-img-2 {
+  background: url('assets/img/image2.jpeg');
+  background-size: cover;
+}
+.carousel-img-3 {
+  background: url('assets/img/image3.jpeg');
+  background-size: cover;
+}
+#sending_section .fas {
+  font-size: 50px;
+}
+
+/*FOR GET STARTED*/
+#getstardted {
+  background: url(assets/img/bg1.jpeg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+/*FOR VIDEO*/
+#video {
+  background: url(assets/img/people.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#video a .fas {
+  font-size: 50px;
+  color: #ff0000;
+}
+
+/*FOR PHOTO SECTION*/
+#photo_section img {
+  min-height: 250px;
+}
+
+/*FOR FOOTER*/
+footer {
+  background: #000;
+}
+
+/*START ABOUT US SECTION*/
+/*FOR ABOUT HEADER*/
+#about_header {
+  background: url(assets/img/image1.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+#what img {
+  width: 350px;
+  height: 350px;
+}
+
+/*FOR CARD SECTION*/
+#card_section .fas {
+  font-size: 50px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+#card_section .fab {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+/*FOR TESTIMONIAL*/
+.slick-prev::before {
+  color: #000;
+}
+.slick-next::before {
+  color: #000;
+}
+
+/*FOR SERVICE SECTION*/
+#service_header {
+  background: url(assets/img/image3.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/*FOR BLOG SECTION*/
